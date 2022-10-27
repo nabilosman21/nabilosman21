@@ -1,6 +1,6 @@
 [![MasterHead](https://www.netsolutions.com/assets/images/devops-hub-banner-img.webp)](https://nabilosman21.io)
 <h1 align="center">Hi 👋, I'm Nabil Osman</h1>
-<h3 align="center">A passionate individual seeking to become a DevOps/Cloud Engineer</h3>
+<h3 align="center">A passionate individual seeking to become a Software Engineer/DevOps/Cloud Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif">
 
 - 🔭 I’m currently working on **Containers, completed short courses on Linux and Git/GitHub**
