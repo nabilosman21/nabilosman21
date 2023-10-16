@@ -9,6 +9,7 @@
 
 - Professional baller
 - Pro 
+- Testing profesional
 
 ## CV Portfolio Projects
 
