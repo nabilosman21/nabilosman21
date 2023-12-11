@@ -23,4 +23,5 @@ Below is the evidence of the learning that took place during my Software Enginee
 
 Software Engineering:
 
-- [Software Engineering Bootcamp Portfolio ]([https://github.com/nabilosman21/StockMarketPredictor](https://github.com/nabilosman21/Software-Engineering-Bootcamp-/tree/master)https://github.com/nabilosman21/Software-Engineering-Bootcamp-/tree/master)
+- [Software Engineering Bootcamp Portfolio](https://github.com/nabilosman21/Software-Engineering-Bootcamp-/tree/master)
+
