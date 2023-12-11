@@ -1,5 +1,7 @@
 <h1 align="center">Nabil Osman <img width="35"></h1>
 
+**Passionate about Software Engineering**
+
 ## About Me
 
 - Most Recent Role: Data Analyst 
@@ -24,4 +26,3 @@ Below is the evidence of the learning that took place during my Software Enginee
 Software Engineering:
 
 - [Software Engineering Bootcamp Portfolio](https://github.com/nabilosman21/Software-Engineering-Bootcamp-/tree/master)
-
