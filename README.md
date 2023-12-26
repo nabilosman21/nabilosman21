@@ -10,7 +10,7 @@
 
 ## My Skills
 
-- Python (Pandas, Numpy, Matplotlib, Seaborn, Beautifulsoup).
+- Python (Pandas, Numpy, Matplotlib, Seaborn, Beautifulsoup, Tkinter).
 - SQL
 - HTML/CSS/JavaScript
 - React.js
