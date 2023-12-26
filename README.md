@@ -21,8 +21,15 @@
 
 ## CV Portfolio Learning and Projects
 
-Below is the evidence of the learning that took place during my Software Engineering Bootcamp at Firebrand Training Ltd. This shows evidence of learning compiled with mini projects and some more advanced. 
+Below is the evidence of the learning that took place during my Software Engineering Bootcamp at Firebrand Training Ltd. This shows evidence of learning compiled with mini projects and some more advanced ones. 
 
-Software Engineering:
+Software Engineering Bootcamp and Projects:
 
 - [Software Engineering Bootcamp Portfolio](https://github.com/nabilosman21/Software-Engineering-Bootcamp-/tree/master)
+- [Building Calculator Project](https://github.com/nabilosman21/Building-Calculator-)
+- [Converting Text to Audio Project](https://github.com/nabilosman21/Converting-Text-to-Audio)
+- [Password Hashing and Validator Project](https://github.com/nabilosman21/Password-Hashing-and-Validator)
+- [Python and Postgresql Project](https://github.com/nabilosman21/Python_Postgresql_Project)
+- [File Compression & Encoding](https://github.com/nabilosman21/File-Compression-Encoding)
+  
+
