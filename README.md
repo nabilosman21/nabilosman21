@@ -10,7 +10,7 @@
 
 ## My Skills
 
-- Python (Pandas, Numpy, Matplotlib, Seaborn, Beautifulsoup, Tkinter).
+- Python (Pandas, Numpy, Matplotlib, Seaborn, Beautifulsoup, Tkinter, Django, Flask).
 - SQL
 - HTML/CSS/JavaScript
 - React.js
@@ -18,6 +18,11 @@
 - Linux
 - Git
 - Azure Fundamentals AZ-900
+- MongoDB
+- MySQL
+- Next.js
+- AI
+  
 
 ## CV Portfolio Learning and Projects
 
