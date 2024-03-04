@@ -4,7 +4,7 @@
 
 ## About Me
 
-- Most Recent Role: Data Analyst at Veolia
+- Most Recent Role: Graduate Software Developer 
 - Software Engineering Bootcamp Graduate (Firebrand Training Ltd)
 - MEng Mechanical Engineering Graduate (Queen Mary University of London) and PGCE Secondary Mathematics Graduate (UCL) 
 
@@ -22,6 +22,10 @@
 - MySQL
 - Next.js
 - AI
+- Java
+- Springboot
+- GCP
+- Appian 
   
 
 ## CV Portfolio Learning and Projects
