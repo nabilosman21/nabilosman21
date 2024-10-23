@@ -1,6 +1,6 @@
 <h1 align="center">Nabil Osman <img width="35"></h1>
 
-<h3 align="center">Passionate about Software Engineering.</h3>
+<h3 align="center">Passionate about Data</h3>
 
 ## About Me
 
