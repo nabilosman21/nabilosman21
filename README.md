@@ -4,7 +4,7 @@
 
 ## About Me
 
-- Most Recent Role: Graduate Software Developer 
+- Most Recent Role: Graduate Automation Developer 
 - Software Engineering Bootcamp Graduate (Firebrand Training Ltd)
 - MEng Mechanical Engineering Graduate (Queen Mary University of London) and PGCE Secondary Mathematics Graduate (UCL) 
 
